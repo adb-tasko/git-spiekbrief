@@ -1,4 +1,4 @@
-# Spiekbrief Git en Github
+# Spiekbrief Git en GitHub
 ## 1. clone, commit, push en pull
 Met clone maak je een kopie van een bestaande repository van GitHub op je eigen computer.
 Met commit sla je wijzigingen op in je lokale Git-repository.
