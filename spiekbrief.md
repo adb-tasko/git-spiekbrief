@@ -14,3 +14,5 @@ wat er is gebeurt is dat ik de readme bestand oline heb aangepast en niet in vs 
 waardoor je altijd eerst moet pullen zodat je het nieuwste bestand heb en geen fout kan maken.
 ## 5. Terugdraaien 
 het foute commit is niet uit de geschiedenis verwijdert want het is gepushed en daarom blijft het ook staan.
+## 6. Branches en pull request
+Een branch is een aparte werkomgeving, main blijft de werkende versie en met een pull request vraag je om wijzigingen samen te voegen.
