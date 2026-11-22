@@ -9,3 +9,6 @@ Goed voorbeeld: Voeg een inlogscherm toe aan de website.
 Slecht voorbeeld: Ik heb iets aangepast.
 ## 3. maak een bestand
 Een .gitignore-bestand geeft aan welke bestanden Git moet negeren.
+## 4. Pull
+wat er is gebeurt is dat ik de readme bestand oline heb aangepast en niet in vs code.
+waardoor je altijd eerst moet pullen zodat je het nieuwste bestand heb en geen fout kan maken.
