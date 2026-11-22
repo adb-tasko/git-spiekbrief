@@ -16,3 +16,5 @@ waardoor je altijd eerst moet pullen zodat je het nieuwste bestand heb en geen f
 het foute commit is niet uit de geschiedenis verwijdert want het is gepushed en daarom blijft het ook staan.
 ## 6. Branches en pull request
 Een branch is een aparte werkomgeving, main blijft de werkende versie en met een pull request vraag je om wijzigingen samen te voegen.
+## 7. Mijn conflict
+de titels van het bestand van de app en van de web. ik heb gekozen om te merge. het was de simpelste oplossing.
