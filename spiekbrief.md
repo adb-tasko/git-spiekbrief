@@ -7,3 +7,5 @@ Met pull haal je de nieuwste wijzigingen van de GitHub-repository naar je eigen 
 ## 2. een goed commitbericht
 Goed voorbeeld: Voeg een inlogscherm toe aan de website.
 Slecht voorbeeld: Ik heb iets aangepast.
+## 3. maak een bestand
+Een .gitignore-bestand geeft aan welke bestanden Git moet negeren.
